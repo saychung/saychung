@@ -54,7 +54,7 @@ When I’m not coding, I’m:
 - 🎮 Gaming my way through immersive stories  
 - ✨ Letting creativity seep into everything — even my bugs have style  
 
-![Woodworking Meme](https://i.imgur.com/LzA3HcC.gif)
+![Woodworking Meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIyd2U4N3dwbGx0b3RsMmd5c2p3ZjFjdzhsNW8xc256MXV4b3E2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R4AZpqPJCnvyjxpFTg/giphy.gif)
 
 ---
 
