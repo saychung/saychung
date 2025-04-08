@@ -1,16 +1,74 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Tashi Woser Bhutia** — your friendly neighborhood full-stack developer with a soft spot for JavaScript and a toolbox full of curiosity. If I can learn it in a week, I’ll probably build something with it. 🚀
 
-<!--
-**saychung/saychung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Matrix Code](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- Full-stack apps using **React**, **Node.js**, **TypeScript** & friends  
+- Small creative experiments that blur the lines between code and art  
+- Systems that are fun, fast, and functionally beautiful
+
+---
+
+### 🌱 I’m currently learning
+- 🤖 **AI/ML** — training my brain to train the machines  
+- 🎮 **Game Development** — crafting digital worlds, one frame at a time  
+- 🧠 Sharpening problem-solving skills and creative thinking
+
+> Creativity these days? Less "paintbrush" and more "debugging a recursive loop."
+
+---
+
+### 👯 I’m looking to collaborate on
+- 🛠️ Open source projects  
+- 🎨 Interactive/visual tools  
+- 🕹️ Games or experimental UIs
+
+---
+
+### 🤔 I’m looking for help with
+- AI/ML frameworks and workflows  
+- Building performant game logic and engines (Godot? Unity? custom?)  
+
+---
+
+### 💬 Ask me about
+- How to manage state like a zen master using Zustand 🧘  
+- JavaScript/TypeScript best practices  
+- Creative project ideas that balance logic with artistry  
+
+---
+
+### 📫 How to reach me
+- 📬 Email: tashiwoiserbhutia@yahoo.in  
+- 🧵 Ping me via GitHub Issues/Discussions  
+- 🧠 Or telepathically… if you’ve already learned how 🤯
+
+---
+
+### ⚡ Fun fact
+When I’m not coding, I’m:  
+- 🪵 Doing woodworking IRL — yes, with actual wood and tools  
+- 🎮 Gaming my way through immersive stories  
+- ✨ Letting creativity seep into everything — even my bugs have style  
+
+![Woodworking Meme](https://i.imgur.com/LzA3HcC.gif)
+
+---
+
+### 🔥 GitHub Stats (Because why not?)
+![Tashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saychung&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saychung&layout=compact&theme=tokyonight)
+
+---
+
+> _"Code is just another form of creation — it's art with logic, and logic with heart."_ 💻❤️  
+
+![Creative Coding](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+
+---
+
+Thanks for stopping by! 🌲🛠️🎮
+
