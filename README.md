@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Tashi Woser Bhutia** — your friendly neighborhood full-stack developer with a soft spot for JavaScript and a toolbox full of curiosity. If I can learn it in a week, I’ll probably build something with it. 🚀
+I'm **Woiser** — your friendly neighborhood full-stack developer with a soft spot for JavaScript and a toolbox full of curiosity. If I can learn it in a week, I’ll probably build something with it. 🚀
 
 ![Matrix Code](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
