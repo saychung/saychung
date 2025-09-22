@@ -59,12 +59,6 @@ When I’m not coding, I’m:
 
 ---
 
-### 🔥 GitHub Stats (Because why not?)
-![Tashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=saychung&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saychung&layout=compact&theme=tokyonight)
-
----
-
 > _"Code is just another form of creation — it's art with logic, and logic with heart."_ 💻❤️  
 
 ![Creative Coding](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
