@@ -42,7 +42,7 @@ I'm **Woiser** — your friendly neighborhood full-stack developer with a soft s
 ---
 
 ### 📫 How to reach me
-- 📬 Email: tashiwoiserbhutia@yahoo.in
+- 📬 Email: woiserbhutia@sikk.im
 - 🌐 Website: https://woise.men
 - 🧵 Ping me via GitHub Issues/Discussions  
 - 🧠 Or telepathically… if you’ve already learned how 🤯
