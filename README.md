@@ -1,69 +1,72 @@
-## Hi there 👋  
-I'm **Woiser** — your friendly neighborhood full-stack developer with a soft spot for JavaScript and a toolbox full of curiosity. If I can learn it in a week, I’ll probably build something with it. 🚀
+## Hi, I’m Woiser
 
-![Matrix Code](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+I’m a full-stack software engineer who builds systems that are meant to last—clear in structure, reliable in production, and intentional in how they’re experienced.
 
----
+I’ve worked across web, mobile, and desktop, usually taking things from idea to deployment. Most of my work sits in the JavaScript ecosystem, but I’m currently focused on going deeper into system design, low-level programming, and building software that scales both technically and conceptually.
 
-### 🔭 I’m currently working on
-- Full-stack apps using **React**, **Node.js**, **TypeScript** & friends  
-- Small creative experiments that blur the lines between code and art  
-- Systems that are fun, fast, and functionally beautiful
+🌐 https://woise.men
 
 ---
 
-### 🌱 I’m currently learning
-- 🤖 **AI/ML** — training my brain to train the machines  
-- 🎮 **Game Development** — crafting digital worlds, one frame at a time  
-- 🧠 Sharpening problem-solving skills and creative thinking
+### What I do
 
-> Creativity these days? Less "paintbrush" and more "debugging a recursive loop."
-
----
-
-### 👯 I’m looking to collaborate on
-- 🛠️ Open source projects  
-- 🎨 Interactive/visual tools  
-- 🕹️ Games or experimental UIs
+* Build full-stack systems with React, Node.js, and TypeScript
+* Ship across web, mobile (React Native), and desktop environments
+* Design and deploy applications on AWS
+* Work with APIs, real-time systems, and event-driven architectures
+* Focus on performance, maintainability, and clean system boundaries
 
 ---
 
-### 🤔 I’m looking for help with
-- AI/ML frameworks and workflows  
-- Building performant game logic and engines (Godot? Unity? custom?)  
+### How I work
+
+* I take ownership of problems, not just tasks
+* I optimize for clarity—code should be easy to reason about
+* I prefer systems that scale without becoming fragile
+* I balance speed of execution with long-term stability
 
 ---
 
-### 💬 Ask me about
-- How to manage state like a zen master using Zustand 🧘  
-- JavaScript/TypeScript best practices  
-- Creative project ideas that balance logic with artistry  
+### Current direction
+
+I’m intentionally investing time in:
+
+* System design and architecture
+* Low-level programming and deeper runtime understanding
+* AI/ML systems and their practical applications
+* Interactive systems and game development
 
 ---
 
-### 📫 How to reach me
-- 📬 Email: woiserbhutia@sikk.im
-- 🌐 Website: https://woise.men
-- 🧵 Ping me via GitHub Issues/Discussions  
-- 🧠 Or telepathically… if you’ve already learned how 🤯
+### Tech
+
+JavaScript, TypeScript, Python, C, Rust
+React, Next.js, Node.js, Express
+React Native, Expo
+AWS (EC2, S3), Docker
+WebSockets, event-driven systems
 
 ---
 
-### ⚡ Fun fact
-When I’m not coding, I’m:  
-- 🪵 Doing woodworking IRL — yes, with actual wood and tools  
-- 🎮 Gaming my way through immersive stories  
-- ✨ Letting creativity seep into everything — even my bugs have style  
+### Open to
 
-![Woodworking Meme](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIyd2U4N3dwbGx0b3RsMmd5c2p3ZjFjdzhsNW8xc256MXV4b3E2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R4AZpqPJCnvyjxpFTg/giphy.gif)
+* Product-focused engineering roles
+* Teams that value ownership and thoughtful execution
+* Work that involves building real systems, not just features
 
 ---
 
-> _"Code is just another form of creation — it's art with logic, and logic with heart."_ 💻❤️  
+### Contact
 
-![Creative Coding](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
+* Email: [woiserbhutia@sikk.im](mailto:woiserbhutia@sikk.im)
+* Website: https://woise.men
 
 ---
 
-Thanks for stopping by! 🌲🛠️🎮
+### Outside of work
 
+I spend time woodworking, playing story-driven games, and exploring ideas that don’t always start as software but often end up there. That curiosity tends to show up in how I approach building.
+
+---
+
+> I care about building things that make sense—both to the machine and to the people using them.
